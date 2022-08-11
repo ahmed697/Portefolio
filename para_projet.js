@@ -11,7 +11,7 @@
 $(window).scroll(function (event) {
     var scroll = $(window).scrollTop();
 
-    // console.log(scroll);
+    console.log(scroll);
     if(scroll < 500){
         $(".link-acc").css({"transform": 'scale(1.5)', "transition": "1s"});
     }

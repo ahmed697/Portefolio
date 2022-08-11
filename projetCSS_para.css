@@ -412,6 +412,12 @@ h2{
   left: 96%;
   transition: 0.5s;
 }
+.window1 span{
+  color: #5252dd;
+}
+.window2 span{
+  color: #e65858;
+}
 .window2 img{
   position: absolute;
   top: 40%;
@@ -448,7 +454,7 @@ h2{
   color: white;
 }
 .window1-text p{
-  margin-top: 30px;
+  margin-top: 16px;
 }
 .window2 div{
   margin-left: auto;
